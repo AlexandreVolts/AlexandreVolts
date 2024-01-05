@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alexandre</h1>
+<h3 align="center">A passionate fullstack developer producing high-quality & easy-to-maintain code.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrevolts&theme=onedark" alt="Alexandre Cochet's trophies" /></a> </p>
 
 <!--
 **AlexandreVolts/AlexandreVolts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
