@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Epitech's OOP pool**
   
-- 🌱 I’m currently learning **Remix**
+- 🌱 I’m currently learning **SolidJS**
 
 - 📫 How to reach me: **<a href="mailto:alexandre.cochet0@gmail.com">alexandre.cochet0@gmail.com</a>**
 
