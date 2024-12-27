@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrevolts&theme=onedark" alt="Alexandre Cochet's trophies" /></a> </p>
 
-- 🔭 I’m currently working on **Deestree**
+- 🔭 I’m currently working on **Deestree & Dotter**
   
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Go/Gin & SolidJS**
 
 - 📫 How to reach me: **<a href="mailto:alexandre.cochet0@gmail.com">alexandre.cochet0@gmail.com</a>**
 
